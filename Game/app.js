@@ -1,4 +1,4 @@
-let boxes=document.querySelectorAll(".box");
+let boxes=document.querySelectorAll(".box"); //tic tac toe game code
 let resetBtn=document.querySelector("#reset-btn");
 let newGameBtn=document.querySelector("#new-btn");
 let msgContainer=document.querySelector(".msg-container");
